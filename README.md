@@ -1,5 +1,7 @@
 # Cathalide
 
+**Contributors: Yongjin Shin (Dankook University), Hyemin Kim (Seoul National University)**
+
 Cathalide intends to modulate oragnic molecules in perovskite structures. Unlike inorganic materials, organic molecules are often considered as coarse grain. But conventional DFT codes cannot group atoms to form a group, which makes the operation of translation and rotation difficult.
 
 This uses modified version of pymatgen functions. 
